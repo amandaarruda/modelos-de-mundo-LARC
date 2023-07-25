@@ -20,7 +20,7 @@ Aqui se encontram os arquivos referentes ao modelo de mundo da equipe de drones 
 
 * Mundos 🌎
 
-  Contém os seguintes ambientes em versões .Blend (para alterações futuras) e .dae (para utilizar no Gazebo):
+  Contém os seguintes ambientes em versões .Blend (para alterações futuras), .dae, .sdf e .World (para utilizar no Gazebo):
 
   * Fase 1: Contém 13 modelos com as bases terrestres dispostas de maneira aleatória, 2 alinhadas e 13 não-alinhadas
     
